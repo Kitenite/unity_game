@@ -52,6 +52,6 @@ public class RyanMove : MonoBehaviour
     {
         // Moves our character
         controller.Move(horizontalMove, false, jump);
-        //jump = false;
+        jump = false;
     }
 }

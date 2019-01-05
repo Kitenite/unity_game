@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CharacterController2D.cs" />
+    <Compile Include="Assets\RyanMove.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/hoakiet98/Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
